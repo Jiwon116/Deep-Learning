@@ -25,5 +25,7 @@ config = {
     "optimizer": ['SGD','Adagrad', 'Adam']
 }
 ~~~
+ 
+As a result, we increased the accuracy from 60% to 85% using Tuner.   
+![image](https://user-images.githubusercontent.com/63892688/123669792-6f99f280-d877-11eb-98ea-fdd2a8b84d89.png)
 
-As a result, we increased the accuracy from 71% to 85% using Tuner.
